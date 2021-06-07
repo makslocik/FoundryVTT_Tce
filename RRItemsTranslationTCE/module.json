@@ -1,0 +1,74 @@
+{
+   "name":"RRItemsTranslationTCE",
+   "title":"RRItemsTranslationTCE",
+   "description":"Данный модуль представляет из себя набор компендиумов с переведенными классами, классовыми и расовыми способностями, чертами и предметами<br/> из основных книг по D&D 5e (PHB, XGE, SCG и другие).<br/><br/>Огромная благодарность пользователям: Tiki, Лапть, ELFA, Vita, Енисей, zubanzub, Salamander, Riverander, Gecko за помощь в составлении этого модуля.",
+   "author":"RandomRules",
+   "version":"1.1.0",
+   "minimumCoreVersion":"0.6.0",
+   "compatibleCoreVersion":"0.6.5",
+  "packs": [
+    {
+      "name": "cherty-ru",
+      "label": "Черты (RU)",
+      "path": "packs/cherty-ru.db",
+      "entity": "Item",
+      "module": "RRItemsTranslationTCE"
+    },
+    {
+      "name": "klassovye-sposobnosti-ru",
+      "label": "Классовые Способности (RU)",
+      "path": "packs/klassovye-sposobnosti-ru.db",
+      "entity": "Item",
+      "module": "RRItemsTranslationTCE"
+    },
+    {
+      "name": "klassy-personazhej-ru",
+      "label": "Классы Персонажей (RU)",
+      "path": "packs/klassy-personazhej-ru.db",
+      "entity": "Item",
+      "module": "RRItemsTranslationTCE"
+    },
+    {
+      "name": "predmety-ru",
+      "label": "Предметы (RU)",
+      "path": "packs/predmety-ru.db",
+      "entity": "Item",
+      "module": "RRItemsTranslationTCE"
+    },
+    {
+      "name": "umeniya-predystorij-ru",
+      "label": "Умения Предысторий (RU)",
+      "path": "packs/umeniya-predystorij-ru.db",
+      "entity": "Item",
+      "module": "RRItemsTranslationTCE"
+    },
+    {
+      "name": "zaklinaniya-ru",
+      "label": "Заклинания (RU)",
+      "path": "packs/zaklinaniya-ru.db",
+      "entity": "Item",
+      "module": "RRItemsTranslationTCE"
+    },
+    {
+      "name": "vragi",
+      "label": "Враги Собственные (RU)",
+      "path": "packs/vragi.db",
+      "entity": "Actor",
+      "module": "RRItemsTranslationTCE"
+    },
+    {
+      "name": "obuekty",
+      "label": "Объекты (RU)",
+      "path": "packs/obuekty.db",
+      "entity": "Actor",
+      "module": "RRItemsTranslationTCE"
+    },
+    {
+      "name": "rasovye-sposobnosti-ru",
+      "label": "Расовые Способности (RU)",
+      "path": "packs/rasovye-sposobnosti-ru.db",
+      "entity": "Item",
+      "module": "RRItemsTranslationTCE"
+    }
+  ]
+}
